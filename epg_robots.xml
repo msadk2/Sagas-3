@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="Robots247"><display-name>Saga Transformers y Terminator</display-name></channel>
+
+  <programme start="20261007230000 +0200" stop="20261008012300 +0200" channel="Robots247"><title lang="es">Transformers (2007)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008012300 +0200" stop="20261008031000 +0200" channel="Robots247"><title lang="es">Terminator (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008031000 +0200" stop="20261008054000 +0200" channel="Robots247"><title lang="es">Transformers La venganza de los caídos (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008054000 +0200" stop="20261008075700 +0200" channel="Robots247"><title lang="es">Terminator 2 El juicio final (1991)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008075700 +0200" stop="20261008103100 +0200" channel="Robots247"><title lang="es">Transformers El lado oscuro de la luna (2011)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008103100 +0200" stop="20261008122000 +0200" channel="Robots247"><title lang="es">Terminator 3 La rebelión de las máquinas (2003)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008122000 +0200" stop="20261008150500 +0200" channel="Robots247"><title lang="es">Transformers La era de la extinción (2014)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008150500 +0200" stop="20261008171100 +0200" channel="Robots247"><title lang="es">Terminator Génesis (2015)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008171100 +0200" stop="20261008194000 +0200" channel="Robots247"><title lang="es">Transformers El último caballero (2017)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008194000 +0200" stop="20261008213500 +0200" channel="Robots247"><title lang="es">Terminator Salvation (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008213500 +0200" stop="20261008232900 +0200" channel="Robots247"><title lang="es">Bumblebee (2018)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008232900 +0200" stop="20261009013700 +0200" channel="Robots247"><title lang="es">Terminator Destino oscuro (2019)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009013700 +0200" stop="20261009034700 +0200" channel="Robots247"><title lang="es">Transformers El despertar de las bestias (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+</tv>
